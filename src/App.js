@@ -4,7 +4,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import Container from 'react-bootstrap/Container';
 // import Nav from 'react-bootstrap/Nav';
 // import Navbar from 'react-bootstrap/Navbar';
-import bg from './img/bg1.png';
+import bg
+
+
+
+from './img/bg1.png';
 import shoes01 from './img/shoes01.png'
 import shoes02 from './img/shoes02.png'
 import shoes03 from './img/shoes03.png'
